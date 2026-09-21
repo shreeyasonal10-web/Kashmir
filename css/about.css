@@ -1,0 +1,27 @@
+/*about.css*/
+h1{
+	text-align: center;
+	font-size: 50px;
+	color: black;
+}
+.about{
+	display: flex;
+}
+.about-img{
+	width: 50%;
+}
+.about-text{
+	width: 50%;
+	padding: 30px;
+	font-size: 35px;
+}
+.about-text{
+	width: 50%;
+	padding: 30px;
+	font-size: 35px;
+}
+.about img{
+	height: 400px;
+	padding: 50px;
+	border-radius: 100px;
+}
